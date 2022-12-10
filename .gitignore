@@ -1,0 +1,6 @@
+.idea/
+java-screen-capture.iml
+java-screen-recorder-example/target/
+java-screen-recorder-impl/target/
+java-screen-recorder-impl/java-screen-recorder-impl.iml
+java-screen-recorder-example/java-screen-recorder-example.iml
